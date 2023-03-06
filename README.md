@@ -1,5 +1,5 @@
 
-Hello, my name is CJ Ramseyer.  I am now in my 35th year in IT and a Solutions Architect for Semperis, focused on Directory Security.
+Hello, my name is CJ Ramseyer.  I am now in my 35th year in IT and currently a Solutions Architect for Semperis, focused on Directory Security.
 I am also a tech at heart, I love music, theatre, lights, sound, special effects, beer, coffee, and building my smart-home.
 You will find my projects, my coding, and my smarthome journey here on GitHub.
 
